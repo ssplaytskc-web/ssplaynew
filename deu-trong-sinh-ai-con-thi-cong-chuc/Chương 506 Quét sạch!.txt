@@ -1,0 +1,141 @@
+Chương 506: Quét sạch!
+
+Đến thị trấn Nhân Hòa, quận Bạch Vân, đã 11 giờ rưỡi đêm, nhưng trên đường vẫn còn rất đông người. Những công nhân từ các nhà máy may mặc, khuôn đúc và điện tử gần đó vừa rời khỏi ca làm việc ba kíp, gương mặt ai nấy đều lộ rõ sự mệt mỏi, đứng trước những hàng quán mì xào, phở xào để giải quyết bữa tối. Trần Trước nhìn qua cửa kính xe, im lặng quan sát.
+
+Quảng trường Chính Gia và khu thể thao phía Tây dù có huyên náo đến đâu cũng không thể che giấu được sự xuống cấp của những nhà máy ở vùng ngoại ô này. Ánh đèn neon của khu đô thị mới Châu Giang dù có lấp lánh đến mấy cũng không thể lấp đi những vết gỉ trên những chiếc xe chuyển ca đêm. Tòa nhà IFC và Tháp Tiểu Man Dù có cao chót vót đến đâu cũng không thể lấp đầy ánh trăng lọt qua những khe nứt trong những ngôi làng giữa lòng thành phố.
+
+Quảng Châu có thể trở thành tiên phong trong công cuộc cải cách mở cửa là nhờ vào những giọt mồ hôi và nước mắt của vô số công nhân, chứ không phải nhờ vào việc ai đó đang nắm quyền điều hành tỉnh này. Người Trung Quốc vốn chăm chỉ, chỉ cần có một cơ hội nhỏ nhoi, gen trong máu sẽ thúc đẩy họ làm việc không ngừng nghỉ.
+
+Xem mà thấy buồn lòng quá.
+
+Chúc Tú Tú, người chỉ từng làm việc ở KFC, lần đầu tiên thấy cảnh công nhân ăn tối vào giờ này. Họ cầm trên tay những đĩa mì xào chẳng thấy thịt, ngồi trên mặt đất và xì xụp ăn một cách vội vàng.
+
+Nếu tôi ở đây bán cơm chiên, giá không đổi, nhưng sẽ thêm vào mỗi bát một miếng thịt kho tàu!
+
+Chúc Tú Tú cảm thán.
+
+Tú Bảo, đừng để cảm xúc chi phối.
+
+Vương Hữu Khánh, người đã quen với Chúc Tú Tú, cười nói: Cuộc sống của họ không thể thay đổi chỉ bằng một hai miếng thịt kho tàu, mà cần sự tiến bộ của toàn xã hội để cải thiện phúc lợi. Trần tổng, anh nghĩ có đúng không?
+
+Trần Trước liếc nhìn Lão Vương: Cái lưỡi 37 độ của cậu sao có thể nói ra những lời lạnh lùng đến vậy? Tôi đồng ý với ý kiến của sư tỷ Chúc. Sư tỷ Chúc, nếu cô ở đây bán cơm chiên, nhớ gọi tôi đến thu ngân nhé.
+
+Chúc Tú Tú nghe xong, ôm miệng cười nga nga nga.
+
+Anh ta không tin rằng Trần Trước không nhận ra nguyên nhân của những vấn đề xã hội này, nhưng tên này quá giả tạo, đến trước mặt thư ký của mình còn phải diễn một chút.
+
+Đến nhà máy điện tử Bảo Hoa của bạn Vương Hữu Khánh, Hứa Bảo Hoa đã đứng đợi ở cửa để đón tiếp. Trần Trước nghĩ rằng những nhà máy điện tử dán nhãn ở giai đoạn này đều bắt đầu từ những xưởng nhỏ, nên cũng không nghĩ ra được cái tên nào quá hoành tráng, phần lớn đều lấy ngẫu nhiên hai chữ từ tên của người sáng lập.
+
+Hứa Bảo Hoa biết mục đích của Trần Trước và Vương Hữu Khánh, nên tiếp đón rất niềm nở, đem hết trà ngon còn lại ra mời. Tuy nhiên, thái độ của Trần Trước rất lạnh nhạt, thậm chí có thể nói là vô cùng lạnh nhạt. Anh vừa tham quan vừa tìm hiểu tình hình, rồi quay đi ngay, không hề uống một ngụm trà nóng.
+
+Lên xe trở lại, Vương Hữu Khánh hỏi: Không hài lòng?
+
+Hiện tại, nhà máy điện tử Bảo Hoa đang ở trong tình trạng như thế này:
+
+Diện tích: Khoảng 5000 mét vuông, tương đương với 12 sân bóng rổ, đối với một nhà máy có 200 nhân viên thì không phải là nhỏ, nhưng hiện tại đất ở thị trấn Nhân Hòa cũng không có giá trị gì.
+
+Công nhân: 231 người, nhưng đã nửa năm không nhận lương, nợ gần 500 triệu.
+
+Dây chuyền sản xuất: 6 dây, sử dụng mô hình Turnkey của MTK khá tiên tiến hiện nay .
+
+Nhà cung cấp liên quan: 82 nhà, trong đó nợ 53 nhà tổng cộng 1,1 triệu.
+
+Nợ tiền điện nước và thuê đất: Tổng cộng 406 nghìn.
+
+Hứa Bảo Hoa cá nhân nợ: 1 triệu tiền lãi cao.
+
+Giá anh ta mong đợi bán: 6 triệu .
+
+Trước khi ngừng hoạt động, Bảo Hoa vẫn dán nhãn cho nhiều công ty lớn, hiệu quả kinh doanh thực sự khá tốt. Lúc cao điểm, mỗi tháng có ít nhất 1 triệu lợi nhuận ròng, nên dù nhà máy đang ở trong tình trạng này, cũng không thiếu người muốn tiếp quản. Nhưng một khi nghe nói việc đầu tiên khi tiếp quản là phải gánh khoản nợ lương của hơn 200 công nhân, người ta liền tránh xa.
+
+Không ai muốn làm thằng ngốc như thế cả!
+
+Vì vậy, Trần Trước mới tỏ thái độ lạnh nhạt với Hứa Bảo Hoa, nợ nần chồng chất như vậy mà còn muốn bán với giá 6 triệu?
+
+Một nguyên nhân khác là Hứa Bảo Hoa là một tay cờ bạc, đây cũng là nguyên nhân chính khiến nhà máy điện tử này đi xuống. Trần Trước khi còn làm việc đã gặp quá nhiều tay cờ bạc rồi. Nói thế nào nhỉ, người phạm tội tình dục có thể còn cứu được, nhưng một khi đã dính vào cờ bạc và ma túy thì coi như xong đời rồi, vì vậy đàn ông tốt phải tránh xa cờ bạc và ma túy!
+
+Ý cậu là sao? Bây giờ đi luôn?
+
+Vương Hữu Khánh tưởng Trần Trước không hài lòng.
+
+Trần Trước nhìn về phía con đường chợ đêm đầy mùi dầu mỡ ở gần đó, hít sâu một hơi: Để tìm hiểu tình hình với lãnh đạo địa phương trước đã.
+
+Lúc này, sự quyết tâm theo đuổi phát triển kinh tế của các lãnh đạo ở những nơi khác nhau cũng khác nhau. Một phó thị trấn ở thị trấn Nhân Hòa nghe nói có người quan tâm đến nhà máy điện tử Bảo Hoa, lập tức bỏ vợ ở nhà mà chạy đến. Khi thấy là Trần Trước ngược dòng, liền gọi điện cho lãnh đạo cấp trên, thị trấn trưởng ở thành phố cũng không nói gì mà lái xe đến ngay.
+
+Trần Trước đã từng tiếp xúc với nhiều lãnh đạo địa phương. Quan chức Quảng Đông nói chung là khá thực tế, họ tuy cũng hiểu những nghi thức rườm rà trong quan trường, nhưng cũng có thể cúi thấp người và làm việc một cách thực chất. Lãnh đạo vùng Giang Chiết thì phong cách cũng tốt, nhưng hơi sạch sẽ quá mức. Cũng có nghĩa là họ cũng làm việc, nhưng thích đóng vai người chỉ đạo hơn, trong máu có chút kiêu hãnh, không biết có liên quan gì đến trình độ văn hóa cao ở những vùng này không. Còn lãnh đạo khu vực Xuyên Duật, nhiều người sẵn sàng làm việc, nhưng bị hạn chế bởi phát triển kinh tế, vị trí địa lý và cái nhìn của bản thân lãnh đạo, nên không biết phải làm gì, hoặc thường làm sai. Các lãnh đạo tỉnh miền Nam còn lại đều tương tự. Nhưng phong cách của những lãnh đạo ở Đông Tam Tỉnh thì thật khó nói, đến nỗi trong dân gian có câu đùa đầu tư không vượt Sơn Hải Quan. Nhưng trang web học tập của Trung Sơn lại phát triển suôn sẻ nhất ở Đông Tam Tỉnh, quan hệ đã tốt thì các khu đại học tha hồ mà bày trò. Không được nữa thì có thể để nhà trường ra thông báo, bắt các sinh viên phải đăng ký tài khoản trên trang web học tập và hồi âm. Nói xem có đúng là bạn bè tốt không?
+
+Đợi đến khi thị trấn trưởng và phó thị trấn Nhân Hòa đến, trong tòa nhà chính quyền thị trấn, mấy người nói chuyện thâu đêm. Đến khi bên ngoài bất giác đã là ánh trăng xen lẫn với ánh bình minh, Chúc Tú Tú từ lâu đã ngủ thiếp đi trên ghế sofa, Mã Hải Quân cũng đang lim dim gật gù. Thị trấn trưởng Mã và phó thị trấn Lê không thể chịu đựng được nữa nên đi nghỉ, Trần Trước và Vương Hữu Khánh vẫn còn tinh thần phấn chấn.
+
+Cậu rốt cuộc nghĩ sao?
+
+Vương Hữu Khánh không hiểu nổi Trần Trước.
+
+Trần Trước vừa thể hiện một chút hứng thú, nhưng lại không quyết định cuối cùng, suýt nữa đã khiến thị trấn trưởng Mã thành cá nhảy lên.
+
+Qua cuộc trao đổi vừa rồi, cậu thấy thị trấn trưởng Mã lo lắng nhất về điều gì?
+
+Trần Trước hỏi.
+
+Nợ chứ sao!
+
+Vương Hữu Khánh buột miệng nói: Lương của 231 người trong nửa năm, cứ kéo dài thế này có thể dẫn đến những sự kiện xã hội tập thể.
+
+Đúng vậy!
+
+Trần Trước cũng tiếp lời: Họ rất muốn tìm một công ty có thể gánh khoản chi phí này, ngược dòng hiện tại là một doanh nghiệp có uy tín, danh tiếng của tôi cũng không tệ, nên chỉ cần tôi hé lộ một chút ý định, họ tự khắc sẽ nghĩ cách để giữ tôi lại.
+
+Cậu nói là…
+
+Vương Hữu Khánh như chợt ngộ ra điều gì.
+
+Trần Trước đếm từng cái một trên đầu ngón tay:
+
+Tiền điện nước có được miễn không?
+
+Đất đai có còn được hưởng ưu đãi không?
+
+Nợ nhà cung cấp có chuyển hết sang Hứa Bảo Hoa không, đừng tính vào nhà máy.
+
+Và!
+
+Trần Trước cười, với vẻ mặt như tôi đã hiểu rõ bản tính của những lãnh đạo cấp cơ sở này, tự tin nói: Họ sẽ gây sức ép với Hứa Bảo Hoa, để anh ta giảm giá từ 6 triệu.
+
+Vương Hữu Khánh suy nghĩ một chút, đúng là như vậy.
+
+Vậy mức giá trong lòng cậu là bao nhiêu?
+
+Vương Hữu Khánh hỏi.
+
+Nhà máy 3 triệu, 6 triệu nợ lương công nhân tôi có thể chịu toàn bộ, nhưng…
+
+Trần Trước đổi giọng: Tôi muốn mở rộng nhà máy lên gấp ba lần, và trong năm năm sẽ được miễn tiền thuê đất, miễn thuế, chính quyền thị trấn còn phải đứng ra bảo lãnh cho tôi vay ngân hàng một trăm triệu.
+
+Chết tiệt!
+
+Vương Hữu Khánh nghe xong, đờ mặt một hồi lâu: Người ta sẽ không đồng ý đâu.
+
+Tại sao lại không đồng ý?
+
+Trần Trước lại khẽ cười khẩy:
+
+Khoản vay là do chính quyền thị trấn bảo lãnh, chứ không phải cá nhân trưởng thị trấn Mã, hắn sao phải lo lắng?
+
+Còn những thỏa thuận miễn thuế, miễn thuê kia, lẽ nào trưởng thị trấn Mã có thể ngồi yên tại chỗ này đủ năm năm? Hắn sẽ đồng ý, rồi để lại cho người kế nhiệm đau đầu.
+
+Việc duy nhất rơi lên đầu trưởng thị trấn Mã, chính là trong nhiệm kỳ của hắn, không động đến một xu của ngân sách nhà nước, đã giải quyết ổn thỏa vấn đề lương của 231 công nhân nhà máy điện tử Bảo Hoa bị nợ đọng, duy trì trật tự an ninh xã hội, bảo vệ quyền lợi của người lao động bình thường, thể hiện khả năng phối hợp cực mạnh.
+
+Đồng thời, hắn còn thu hút được doanh nghiệp nổi tiếng toàn quốc Tố Hồi Điện Tử đầu tư, bơm sinh khí mới vào sự phát triển kinh tế của thị trấn Nhân Hòa.
+
+Nói đi?
+
+Trần Trước mỉm cười: Tại sao hắn không đồng ý?
+
+Ngẩng đầu lên, Chúc Tú Tú không biết từ lúc nào đã tỉnh dậy, đang trợn mắt nhìn lại.
+
+Lúc này ánh bình minh vừa ló dạng, những đám mây ở phương đông nhuộm màu xám nhạt, giống như màu xanh cổ còn sót lại từ thời phong kiến, từng inch từng inch đẩy lùi màn đêm, tựa như một nghi lễ trang trọng và cổ xưa.
+
+Về đợi điện thoại đi!
+
+Trần Trước đứng dậy, thoải mái vươn vai.
+
+Làm quan trước rồi mới làm thương nhân, kết cục phần lớn là – ăn thông!

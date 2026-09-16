@@ -1,0 +1,153 @@
+Chương 631: Mọi Người Đều Đang Chờ Chết.
+
+Cuối cùng cũng hiểu ra nguyên nhân công ty quất roi.
+
+Tiểu Mã ca trước tiên gọi điện cho Trần Trước, không nhắc tới vấn đề [hồi âm], mà cười nói: Tiểu đệ, cậu có biết gần đây công ty chúng tôi gặp chút rắc rối không?
+
+Rắc rối gì vậy?
+
+Trần Trước giả vờ ngây ngô hỏi lại.
+
+Chúng tôi bị lãnh đạo Bộ Văn hóa phạt đứng rồi…
+
+Giọng Tiểu Mã ca không chút u uất, như thể đang tán gẫu với bạn bè.
+
+Phạt đứng là một ẩn dụ rất sinh động, ví dụ như lần này một phó tổng của Tencent đến Bắc Kinh nhận lỗi.
+
+Thông thường, hắn sẽ đứng trước bàn gỗ đỏ của lãnh đạo, khúm núm nghe chỉ trích, y hệt như bị giáo viên phạt đứng hồi nhỏ.
+
+Trần chủ nhiệm diễn xuất đỉnh cao, thấy Tiểu Mã ca loanh quanh không vào đề, cũng không sốt ruột, chân thành an ủi:
+
+Mã tổng, nhìn vấn đề phải biện chứng. Đây là quá trình quy chuẩn tất yếu sau thời kỳ tăng trưởng bùng nổ của ngành internet Trung Quốc, đều là trả giá cho quá khứ, lãnh đạo cũng chỉ mong ngành này phát triển bền vững thôi…
+
+Tiểu Mã ca vốn xuất thân lập trình viên, khẩu tài sao so được với Trần Trước – dân công chức chính hiệu.
+
+Trần chủ nhiệm có thể thao thao bất tuyệt suốt hai tiếng không lặp lại, tuy không học công nghệ thông tin nhưng bàn về phát triển ngành vẫn rành mạch.
+
+Tiểu Mã ca cảm thấy cánh tay cầm điện thoại đã tê cứng, vẫn không moi được thông tin hữu ích nào.
+
+Đành phải hỏi thẳng: Trần tiểu đệ, cậu quan hệ với bộ trưởng Dịch tốt lắm à?
+
+Tôi à…
+
+Nếu Trần Trước lúc này khoa trương, có lẽ Tiểu Mã ca còn hoài nghi.
+
+Nhưng Trần chủ nhiệm chỉ mỉm cười, trả lời nhạt nhẽo: Cũng tạm được.
+
+Lại khiến Tiểu Mã ca sinh nghi, cảm giác Trần Trước và đối phương cực kỳ thân thiết.
+
+Mang theo bụng nghi vấn, Tiểu Mã ca đành triệu tập họp ban lãnh đạo, bàn cách ứng phó.
+
+Vốn dĩ, các lão làng như Lưu Thành Minh trong công ty đã không tán thành dự án phần mềm nhắn tin tức thời.
+
+Giờ bị Số Hồi phản kích, nhất là sau thông báo của Bộ Văn hóa, cổ phiếu lao dốc mấy ngày liền, cổ đông kêu ca, Lưu Thành Minh có cơ hội phủ định tiếp.
+
+Tôi đã nói rồi, công ty hiện tại nên tập trung chiến lược, tránh phân tán nguồn lực, tập trung phát triển dự án thế mạnh.
+
+Lưu tổng nhìn chằm chằm Trương Hiểu Long, nói thẳng: Nhưng có người không quan tâm đại cục, vì thành tích cá nhân mà liều lĩnh xông pha, khiến cả công ty phải trả giá cho sự mạo hiểm của mình!
+
+Trương Hiểu Long đỏ mặt cúi đầu, không nói nửa lời.
+
+Hiện tại hắn còn không đủ tư cách tham gia cuộc họp cấp này, vốn hy vọng nhờ phần mềm mới vượt cấp, nhưng Số Hồi kéo lực lượng chính trị vào, ngoài việc chửi bới, hắn bất lực.
+
+Tiểu Mã ca gãi má, hắn hiểu rõ Lưu lão bề ngoài mắng người khác, thực chất đang nhắc nhở mình.
+
+Không có sự ủng hộ của hắn, dự án này cũng không thể triển khai.
+
+Một lão làng khác của Tencent là Hứa Thành Nghiệp thấy tình cảnh khó xử của Tiểu Mã ca, vội ra mặt hòa giải: Thôi nào Lưu lão, giải quyết vấn đề trước đi, giờ phải làm sao?
+
+Còn làm sao nữa?
+
+Lưu Thành Minh nói thẳng: Dừng ngay dự án phần mềm nhắn tin đi, mở rộng mù quáng chỉ làm loãng lợi thế cạnh tranh. Nếu chúng ta tập trung củng cố game và QQ, có lẽ nào hôm nay lại bị động thế này? Tôi hy vọng một số người nghiêm túc suy ngẫm, nhận rõ thế nào mới là trách nhiệm với công ty!
+
+Nếu dừng lại, thiệt hại có quá lớn không?
+
+Giám đốc điều hành Martin không chỉ trích Trương Hiểu Long, cũng không ủng hộ ý kiến Lưu Thành Minh, chỉ khách quan nói: Đã tập trung nhiều nguồn lực như vậy, gặp khó khăn đã bỏ cuộc, tinh thần kỹ sư cũng bị ảnh hưởng.
+
+Martin là người Hồng Kông, nhưng du học Mỹ từ nhỏ nên thường xen tiếng Anh khi nói.
+
+Pony.
+
+Martin nói với Tiểu Mã ca: Số Hồi đã kéo lực lượng chính trị, chúng ta có thể tìm một số lãnh đạo để cân bằng áp lực từ bộ trưởng Dịch không?
+
+Tiểu Mã ca gật đầu, nhưng cũng không mấy tự tin.
+
+Tencent mạnh ở phương Nam, nhưng trong tỉnh lại không thể thuyết phục lãnh đạo áp chế Số Hồi.
+
+Số Hồi không chỉ có mạng học tập, mạng an cư, trợ lý điện thoại… mà còn có nhà máy điện tử ở khu Bạch Vân.
+
+Đó là thực thể kinh tế cao quý, trong thời đại kinh tế internet vẫn đầy rẫy luận điệu bong bóng, một nhà máy hữu hình được lãnh đạo ưa chuộng hơn.
+
+Còn quan hệ phương Bắc, Tencent không phải không có, chỉ là hơi mỏng.
+
+Qua sự việc này, Tiểu Mã ca cũng nhận ra điểm yếu của Tencent: mùi Hồng Kông quá nồng, còn mùi tương Bắc Kinh quá nhạt.
+
+Sau khi giải quyết chuyện này, cần tìm vài ông chủ Bắc Kinh tham gia cổ phần.
+
+Kết thúc cuộc họp không kết quả, Tiểu Mã ca không trừng phạt Trương Hiểu Long, ngược lại an ủi hắn.
+
+Nhưng cũng nhắc nhở tạm dừng dự án.
+
+Lãnh đạo đã cảnh báo rõ ràng, nếu không coi ra gì, lần sau không chỉ là mười vạn phạt và báo cáo bằng văn bản nữa.
+
+Tìm quan hệ dàn xếp với bộ trưởng Dịch trước, sau đó khởi động lại nghiên cứu!
+
+Tiểu Mã ca vốn tính toán kỹ, cho rằng chỉ cần trả giá nhất định, không tin không tìm được đối thủ của Dịch Bá Tường.
+
+Nhưng đi một vòng Bắc Kinh, không ai nhận đơn.
+
+Chuyện gì vậy?
+
+Cơ chế ELO sao?
+
+Sao không ai dám ra mặt?
+
+Mãi đến khi một lãnh đạo tốt bụng nói thật:
+
+Nửa năm nữa hãy bàn, trước khi lão Dịch ra đi, không ai muốn đắc tội nhà họ đâu.
+
+Khuyên các anh ổn định, đừng manh động, kẻo bị lão Dịch dọn luôn.
+
+Chỉ vài tháng thôi, từ từ rồi tính, đừng tranh nhất thời.
+
+…
+
+Tôi có thể đợi, nhưng Số Hồi không đợi!
+
+Tiểu Mã ca đau lòng.
+
+Không trách dạo này họ bất chấp tất cả, chỉ ra sức quảng cáo [Hồi Âm], hóa ra đã biết trước chuyện này.
+
+Nhưng để họ quảng bá như vậy, nửa năm sau phần mềm mới của chúng ta có đuổi kịp không?
+
+Hơn nữa, nếu nửa năm sau lão già vẫn sống nhờ dịch truyền thì sao?
+
+Một người hấp hối vô thức mà còn quyết định vận mệnh công ty đại chúng hàng vạn người, khiến Tiểu Mã ca vừa bất lực vừa bi thương.
+
+Tôi đành phải chờ chết!
+
+Bên phía Số Hồi, nghe tin Tencent tạm dừng dự án phần mềm nhắn tin, Trần Trước vừa vui vừa lo.
+
+Vui là vì [Hồi Âm] có ít nhất vài tháng phát triển, lại được Ume Mobile hỗ trợ, rất có thể thoát khỏi mối đe dọa từ Tencent.
+
+Trong ngành internet phát triển chóng mặt, vài tháng đủ định hình thị trường, tạo khoảng cách thế hệ sản phẩm.
+
+Lo là vì đuổi sói trước cửa, hổ lại vào sau nhà, khi công chúa nhập cuộc, nên ứng phó thế nào?
+
+Cũng chờ chết sao?
+
+Nhắc Tào Tháo, Tào Tháo đến, đang suy nghĩ thì điện thoại Ume rung lên.
+
+Giữa tháng mười hai rồi, ba trăm ngàn máy Ume  đã được vận chuyển từ Foxconn về đại lục.
+
+Hiện tại lãnh đạo Số Hồi, bạn bè quanh Trần Trước đều dùng Ume1.
+
+Nhìn màn hình cảm ứng sáng bóng, hiển thị số mới của Dịch Bảo Ngọc ở Bắc Kinh.
+
+Lúc này gọi đến, chắc là đòi Trần Trước giữ lời hứa.
+
+Trốn được không?
+
+Trần chủ nhiệm không những không trốn, mà còn đón nhận cơn bão từ công chúa tam đại.
+
+······

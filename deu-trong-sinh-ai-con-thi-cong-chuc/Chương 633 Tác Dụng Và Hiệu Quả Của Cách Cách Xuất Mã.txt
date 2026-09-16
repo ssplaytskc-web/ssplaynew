@@ -1,0 +1,201 @@
+Chương 633: Tác Dụng Và Hiệu Quả Của Cách Cách Xuất Mã.
+
+Chút việc nhỏ nhặt này cũng phải tìm đến ta sao?
+
+Dị Bảo Ngọc hơi ngạc nhiên, cũng có chút khinh thường: Trong vòng tròn của ta, chẳng có ai muốn làm người dẫn chương trình cả, tầng lớp quá thấp.
+
+Trần Trước bị coi thường nhưng không hề giận dữ, anh vẫn kiên nhẫn giải thích: Tiểu thư Dị, đây không phải là người dẫn chương trình ra mắt sản phẩm bình thường. Điện thoại Ume của chúng tôi hiện là sản phẩm tốt nhất trong nước, ngay cả Nokia N96 và Motorola VE66 vừa ra mắt cũng phải nhường bước.
+
+Hả?
+
+Dị Bảo Ngọc khẽ cười: Nhà máy của các anh hình như mới thành lập không lâu mà đúng không?
+
+Cô hoàn toàn không tin một nhà máy điện tử không có kinh nghiệm sản xuất và tích lũy công nghệ lại có thể vượt qua một gã khổng lồ như Nokia.
+
+Chúng tôi tuy trẻ nhưng chí không nhỏ.
+
+Trần Trước vẫn điềm nhiên: Ume sử dụng hệ điều hành Android, là chiếc điện thoại Android thứ hai trên thế giới và đầu tiên ở trong nước. Cô ở nước ngoài lâu như vậy, chắc hẳn biết Android đang dẫn đầu Symbian, vậy tại sao Nokia lại có thể so sánh với chúng tôi? Ngay cả buổi ra mắt này cũng là sự kiện ra mắt sản phẩm điện tử đầu tiên thực sự trong nước.
+
+Thực ra Dị Bảo Ngọc không am hiểu những kiến thức chuyên môn này, nhưng ở nước ngoài, các cuộc thảo luận về Android và Symbian diễn ra khá sôi nổi.
+
+Cô cũng có một chiếc HTC G1, điện thoại Android đầu tiên trên thế giới.
+
+Chiếc điện thoại đó được mua ở Thụy Điển, khi về nước thì không thể sử dụng do vấn đề hệ thống mạng, nên cô đã đổi sang Nokia N96.
+
+Nhưng từ trải nghiệm sử dụng hai chiếc điện thoại này, Nokia có cảm giác ì ạch như máy tính cũ 386, trong khi G1 lại trơn tru hơn rất nhiều, thao tác vuốt màn hình mượt mà như mây trời.
+
+Hơn nữa, G1 còn có nhiều tính năng mới chờ người dùng khám phá, độ tự do khá cao.
+
+Tất nhiên G1 cũng không phải không có nhược điểm, chính là mức tiêu thụ pin đáng kinh ngạc.
+
+Nhưng điều này lại chứng minh Android cao cấp hơn Symbian, vì chỉ có hệ thống phức tạp mới cần nhiều năng lượng để duy trì, trong khi hệ thống đơn giản hơn thì mức tiêu thụ thấp là sự đánh đổi hiệu năng và khả năng mở rộng.
+
+Trong tương lai, khi ai đó viết về lịch sử phát triển ngành điện tử Trung Quốc, Ume chắc chắn sẽ được nhắc đến một cách trang trọng.
+
+Lúc này, giọng của Trần Trước trở nên mạnh mẽ hơn: Người dẫn chương trình Tết Nguyên Đán có thể bị lãng quên sau ngày rằm tháng Giêng. Nhưng người phát ngôn của buổi ra mắt này, tôi dám chắc sẽ được nhắc lại mỗi khi nhìn lại quá trình phát triển ngành, vì nó đại diện cho xu hướng thời đại từ điện thoại chức năng sang điện thoại thông minh…
+
+Trần Trước không hề khoác lác.
+
+Mười năm sau, khi Symbian dần lụi tàn, Windows bị coi là rác rưởi, BlackBerry lại quá nhỏ lẻ, hệ điều hành OMS của China Mobile cũng chẳng đáng nhắc đến, thậm chí còn tệ hơn cả rác.
+
+Trên thế giới chỉ còn lại hai phe: iPhone và Android, sự ra đời của Ume1 thực sự đã đánh dấu một vị trí lịch sử.
+
+Buổi ra mắt này cũng sẽ được coi là sự khởi đầu của một phương thức kinh doanh mới.
+
+Dị Bảo Ngọc không ngắt lời.
+
+Xuất thân và địa vị có thể khác biệt, nhưng sức hấp dẫn cá nhân có thể vượt qua những rào cản bề ngoài, thâm nhập vào tâm trí đối phương.
+
+Loại doanh nhân tự lực tự cường như Trần Trước, tự nhiên tỏa ra một sự điềm tĩnh khác biệt so với những thiên long nhân cùng thời.
+
+Ví dụ không thích hợp lắm.
+
+Trần Trước khôn khéo, anh liên kết chủ đề với những sự kiện mà các Cách Cách và Bối lặc quan tâm: Ý nghĩa của buổi ra mắt này giống như một hội nghị quan trọng trong lịch sử, là bước ngoặt quan trọng trong sự phát triển ngành điện tử, đánh dấu một khởi đầu mới.
+
+Khi các Cách Cách và Bối lặc so sánh gia thế, có một điểm quan trọng là nếu ông nội của bạn đã từng leo qua tuyết, vượt qua thảo nguyên, giơ tay phát biểu tại hội nghị XX hay bỏ phiếu tại đại hội toàn thể XX…
+
+Không cần bàn cãi, bạn chính là đại ca/đại tỷ thực sự!
+
+Tất nhiên, nếu còn từng lên con thuyền trên hồ Nam Hồ Gia Hưng và sống sót đến sau khi đất nước thành lập, thì càng đáng nể.
+
+Nghe Trần Trước ví von tầm quan trọng của buổi ra mắt này, Dị Bảo Ngọc tuy không nói gì nhưng chân mày cũng hơi nhướng lên.
+
+Vì vậy, đây không chỉ là một lần xuất hiện, mà còn là cơ hội được lịch sử ghi nhận.
+
+Trần Trước tiếp tục: Nếu xung quanh Tiểu thư Dị có người tài giỏi, có chí hướng muốn khẳng định tên tuổi trên toàn quốc, với hoài bão lớn lao, mong cô giới thiệu họ đến với chúng tôi.
+
+Hoài bão lớn lao, khẳng định tên tuổi trên toàn quốc?
+
+Dị Bảo Ngọc nghĩ thầm đây chẳng phải là mình sao?
+
+Cô trở về nước chính là để tạo dựng sự nghiệp, nâng cao vị thế của dòng họ mình trong gia tộc.
+
+Chỉ là đang bị ông nội giam chân tại Bắc Kinh, còn chưa biết cách thoát khỏi tình thế này, không ngờ lại có cơ hội như vậy.
+
+Dị Bảo Ngọc suy nghĩ một lát rồi hỏi: Nếu có nhiều lợi ích như vậy, sao anh không làm người phát ngôn?
+
+Nếu tôi làm người phát ngôn, hai bạn gái của tôi chắc chắn sẽ đến tận nơi.
+
+Trần Trước không nói dối, thành thật trả lời: Tôi đi với ai cũng không tiện, nhưng không đi thì lại không phải, khó xử quá nên tốt nhất là không làm. Hơn nữa tôi cũng muốn chuyển sang hậu trường.
+
+Dị Bảo Ngọc đã biết Trần Trước có hai bạn gái xinh đẹp, nhưng cô không hề để tâm.
+
+Không phải vì đạo đức của cô thấp.
+
+Mà là môi trường lớn lên của một Cách Cách coi điều này là đương nhiên.
+
+Nhưng việc Trần Trước tự vạch áo cho người xem lưng lại khiến Dị Bảo Ngọc tin tưởng vào lý do này.
+
+Phụ nữ thôi mà, sợ gì?
+
+Cách Cách không thèm đếm xỉa: Khi anh lên một tầng cao hơn, người phụ nữ nào mà chẳng có được.
+
+Trần Trước cười không tranh cãi, mà chuyển sang giọng lo lắng bất an: … Thực ra, tôi vốn định mời Tiểu thư Dị làm người phát ngôn, với sự hiểu biết và khí chất của cô, nếu có thể đứng trên sân khấu, chắc chắn sẽ phù hợp với tầm quan trọng của sự kiện này.
+
+Ông chủ nhiệm Trần lại nâng cao giọng, có chút hào hùng như xung trận: Không chỉ là điểm nhấn cho sản phẩm, mà còn là khởi đầu cho sự đột phá của ngành điện tử trong nước!
+
+Ừ~
+
+Lời lẽ khéo léo của ông chủ nhiệm Trần lại khiến Dị Bảo Ngọc thấy thích thú.
+
+Cách Cách rõ ràng đã động tâm, đây là cơ hội khẳng định tên tuổi trên toàn quốc.
+
+Nhưng đôi khi, lời tôi nói không được hay ho cho lắm.
+
+Dị Bảo Ngọc không còn chống đối, chỉ là vẫn chưa quyết định được.
+
+Họ được cô mắng là vinh dự của họ…
+
+Trần Trước nói nhảm, nhưng trong lòng lại nghĩ điều này chẳng là gì cả.
+
+Việc chỉ trích đối thủ trong buổi ra mắt cũng là một nghệ thuật truyền thống, chỉ cần có đặc điểm, có sức nóng và thu hút sự chú ý, đó chính là thành tựu lớn nhất của buổi ra mắt.
+
+Hơn nữa, người khác chỉ trích tôi có thể sẽ e ngại, nhưng Cách Cách ngay cả tôi và Mã Hóa Đằng cũng không coi ra gì, tất nhiên sẽ lên hết công suất.
+
+Nghe đến việc có thể công khai chỉ trích người khác, Dị Bảo Ngọc càng thấy hứng thú, cô yêu cầu Trần Trước gửi tài liệu liên quan đến email của mình, để cô xem qua rồi quyết định.
+
+Cảm thấy Cách Cách Dị hình như đã bị thuyết phục, Trần Trước hứng khởi quay lại nhà ăn Hoa Nam.
+
+Cuộc điện thoại kéo dài hơn hai mươi phút, cơm đã nguội ngắt, và dáng hình của chị cosplay cũng không còn thấy đâu.
+
+Cô ấy đâu rồi?
+
+Trần Trước vừa hỏi vừa cầm đũa, định ăn qua loa vài miếng.
+
+Nguội rồi mà còn ăn.
+
+Ngô Du ngăn lại: Du Huyền vừa nhìn thấy anh vào, liền đi múc cho anh một bát mì nóng.
+
+Trần Trước ngẩng đầu, quả nhiên, ở cửa hàng mì có một bóng lưng thon thả đang xếp hàng.
+
+Cô nhẹ nhàng di chuyển theo hàng, thỉnh thoảng nhón chân nhìn về phía trước, ánh đèn trong nhà ăn chiếu xuống, làm mái tóc nâu mật ong xoăn nhẹ trở nên bồng bềnh và thư thái, vài sợ tóc vô tình dính vào cổ trắng muốt, tăng thêm phần quyến rũ.
+
+Một lát sau, mì thịt bò dưa chua đã nấu xong, Du Huyền bưng khay trở về.
+
+Trong hàng người đợi ở cửa hàng mì, vài chàng trai giả vờ quay lại, trong ánh mắt có chút tiếc nuối.
+
+Trong trường có những cô gái như thế này, dù biết rõ cô ấy và mình không có mối quan hệ gì, cũng không thể nào thuộc về mình.
+
+Nhưng đôi khi tình cờ gặp trong nhà ăn, ngay cả việc chờ đợi bình thường cũng trở nên tươi sáng.
+
+Nhưng, có những gã đàn ông không biết điều.
+
+Tôi không đói nữa.
+
+Trần Trước cười nói: Phải về giải quyết chút việc.
+
+Không được! Làn hơi nóng bốc lên mờ ảo bao phủ khuôn mặt trái xoan, đôi mắt đào hoa đầy quyến rũ càng thêm mê hoặc.
+
+Con bé gái Tứ Xuyên không cho đi, Trần chủ nhiệm đâu dám trái ý, sợ nghe câu danh ngôn Lão tử Thục Đạo Sơn nổi tiếng kia.
+
+Du Huyền lại thổi vài cái, môi chạm nhẹ vào nước canh thử nhiệt độ, cảm thấy vừa miệng rồi mới đẩy bát mì về phía Trần chủ nhiệm.
+
+Ăn đi~
+
+Cô gái Tứ Xuyên buông hai từ ngắn gọn rồi chống cằm, ánh mắt cười tỏa nắng nhìn bạn trai.
+
+…Ừ.
+
+Trần Trước đành nhấc đũa lên.
+
+Còn miễn cưỡng thế?
+
+Ngô Huệ trợn mắt: Hoa khôi trường Quảng Mỹ chúng tôi hầu hạ anh đấy, bao nhiêu trai tráng mơ còn không dám tưởng tượng như vậy.
+
+Đúng rồi~
+
+Huyền muội nhi cũng khúc khúc cười, tự nhiên đưa tay véo nhẹ dái tai Trần chủ nhiệm, cử chỉ đầy âu yếm đặc trưng của các cô gái Tứ Xuyên khi yêu.
+
+Hành động ấy khiến bao chàng trai năm nhất tan nát cõi lòng.
+
+Nghe các sư huynh nói sư tỷ Du Huyền có bạn trai, ai ngờ lại là thật.
+
+Lúc nãy anh đi tìm người phát biểu họp báo sản phẩm hả?
+
+Vương Trường Hoa cũng ăn xong, buông lời hỏi thăm: Thế nào rồi?
+
+Còn đang cân nhắc.
+
+Trần Trước húp ừng ực nước canh.
+
+Bạn bè đều biết Trần Trước không muốn làm người phát biểu, lý do của Trần chủ nhiệm là: Ta là BOSS một tập đoàn đường đường chính chính, sao có thể làm chuyện lộ mặt này được?
+
+Khác hẳn với lời lẽ khi lừa gạt Ức Cách Cách.
+
+Trần Trước không nhận làm người phát biểu, Du Huyền và Tống Thời Vi cũng sẽ không đến xem, họ đều chỉ nghĩ đó là một buổi giới thiệu sản phẩm bình thường nên mỗi người tập trung vào việc riêng.
+
+Tửu trường sát na, đương nhiên cũng sẽ không xảy ra.
+
+Chi bằng thế này đi.
+
+Vương Trường Hoa trầm ngâm giây lát, nghiêm túc nói: Tôi ăn nói lưu loát, ngoại hình khỏi phải bàn, lại còn biết làm điệu, nếu anh thật sự không tìm được người, để tôi thay cũng được.
+
+Trần Trước giật mình: Trường Hoa, cậu làm điệu trong cuộc sống thôi, họp báo tôi đã có nhân tuyển rồi.
+
+Đùa sao, dù Vương Trường Hoa có nói hay cách mấy, nhưng với thân phận hiện tại, nhiều nhất cũng chỉ là một buổi họp đảng nội bộ.
+
+Nếu là Trần Trước – nhà sáng lập Tố Hồi đứng ra, ảnh hưởng chắc chắn sẽ lớn hơn nhiều, nhưng vẫn chưa đạt đến mức tối đa.
+
+Chỉ khi Ức Cách Cách tự mình xuất hiện, nhiều yếu tố chồng chất lên nhau mới tạo ra tác dụng và hiệu quả bước ngoặt.
+
+······
